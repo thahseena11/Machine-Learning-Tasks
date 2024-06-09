@@ -1,6 +1,7 @@
 # Machine-Learning-Tasks
 
-1.Outlier Detection(House price.ipynb)
+# 1.Outlier Detection(House price.ipynb):
+
 Outlier detection is a crucial step in data analysis that involves identifying and handling data points that deviate significantly from the rest of the dataset. Outliers are observations that lie far away from the majority of the data points and can distort statistical analyses, leading to biased results and inaccurate interpretations. Detecting outliers is essential for ensuring the integrity and reliability of data analysis.
 
 Various methods can be used to detect outliers, including statistical techniques and visualization methods. Statistical methods often rely on measures of central tendency and dispersion, such as the mean, median, standard deviation, and interquartile range (IQR). These methods define thresholds or ranges beyond which data points are considered outliers and are subsequently removed or treated.
@@ -11,7 +12,8 @@ It's essential to consider the context of the data and the specific objectives o
 
 Overall, outlier detection is a critical aspect of data preprocessing that helps ensure the accuracy and validity of analytical results. By identifying and appropriately handling outliers, analysts can improve the quality of their analyses and make more informed decisions based on reliable data.
 
-Mean Function:
+# Mean Function:
+
 Calculate the mean and standard deviation of the 'price_per_sqft' column. Define a range around the mean (commonly ±3 standard deviations). Keep only the data points within this range.
 
 Percentile Method (IQR):
