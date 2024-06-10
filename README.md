@@ -32,7 +32,7 @@ In this method, data points are evaluated based on their deviation from the mean
 
 The Z-score method is essentially the same as the normal distribution method. It calculates the Z-scores for each data point and compares them to a predefined threshold to identify outliers. However, unlike the normal distribution method, the Z-score method is more general and can be applied to any distribution, not just normal distributions.
 
-## ML - Task2 - Hypothesis testing
+## 2 - Hypothesis testing
 
 Q1.Suppose a child psychologist claims that the average time working mothers spend talking to their children is at least 11 minutes per day. You conduct a random sample of 1000 working mothers and find they spend an average of 11.5 minutes per day talking with their children. Assume prior research suggests the population standard deviation is 2.3 minutes.Conduct a test with a level of significance of alpha = 0.05.
 
