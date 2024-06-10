@@ -51,3 +51,7 @@ Clustering Techniques
 1. K-means Clustering: Partitions data into K clusters by minimizing the variance within each cluster.
 2. Agglomerative Clustering: Builds clusters hierarchically using the Ward linkage method.
 3. Hierarchical Clustering: Produces a dendrogram .
+
+Silhouette Coefficient:
+
+Measures how similar a point is to its own cluster compared to other clusters. Higher values indicate better-defined clusters.
